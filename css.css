@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+    padding: 0%;
+font-family: Arial, Helvetica, sans-serif;
+}
+.home {
+    font-size: 50px;
+    color: blueviolet;
+    text-align: center;
+
+}
+.one {
+    text-align: center;
+    border: 1px solid pink;
+border-radius: 4px;
+margin: 40px;
+}
+.one h3 {
+    background-color: rgb(165, 4, 224);
+    color: rgb(247, 243, 243);
+    border-radius: 2px ;
+}
+.one p{
+    padding: 15px;
+    font-size: 10px;
+}
+.two {
+    text-align: center;
+    border: 1px solid pink;
+border-radius: 4px;
+margin: 40px;
+}
+.two h3 {
+    background-color: pink;
+    color: rgb(247, 243, 243);
+    border-radius: 2px ;
+}
+.two p{
+    padding: 15px;
+    font-size: 10px;
+}
+
+.three a{
+    margin-left: 50px;
+    text-decoration: none;
+    color: rgb(21, 21, 22);
+    border: #000 1px solid;
+    border-radius: 6px;
+    padding: 10px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
